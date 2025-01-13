@@ -51,6 +51,10 @@ PdfLens combines the best tools to deliver an exceptional user experience:
    ```bash
    streamlit run app.py
    ```
+5. Add Gemini API key .env:
+   ```bash
+   GOOGLE_API_KEY=YOUR_API_KEY_HERE
+   ```
 
 ---
 
