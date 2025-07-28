@@ -2,7 +2,7 @@
 
 PdfLens is an AI-powered chatbot designed to make working with PDF documents easier and more efficient. Leveraging state-of-the-art technologies, PdfLens helps you quickly search, extract, and summarize information from PDFs. Whether you're a researcher, student, or professional, PdfLens is here to make your life simpler!
 
-## ![Example Image](https://raw.githubusercontent.com/D3vShoaib/pdflens/refs/heads/main/screenshot.png)
+## ![Example Image](https://raw.githubusercontent.com/D3vShoaib/PdfLens/refs/heads/main/screenshot.png)
 
 ## 🚀 Features
 
