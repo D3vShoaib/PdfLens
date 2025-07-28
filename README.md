@@ -1,10 +1,11 @@
-#  PdfLens 
+# PdfLens
 
 PdfLens is an AI-powered chatbot designed to make working with PDF documents easier and more efficient. Leveraging state-of-the-art technologies, PdfLens helps you quickly search, extract, and summarize information from PDFs. Whether you're a researcher, student, or professional, PdfLens is here to make your life simpler!
 
-![Example Image](https://raw.githubusercontent.com/D3vShoaib/SideProjectsArchive/refs/heads/main/photo_6064172172307449048_w.jpg)
----
+## ![Example Image](https://raw.githubusercontent.com/D3vShoaib/pdflens/refs/heads/main/screenshot.png)
+
 ## 🚀 Features
+
 - 🔍 **Intelligent PDF Search:** Search through your documents with ease.
 - 💬 **Contextual Chat:** Ask questions about your PDFs and get accurate answers.
 - 🕵️‍♂️ **Smart Summarization:** Generate concise summaries for lengthy documents.
@@ -33,16 +34,19 @@ PdfLens combines the best tools to deliver an exceptional user experience:
 ## 🛠️ Installation & Setup
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/your-repo/PdfLens.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd PdfLens
    ```
 
 3. Install the required dependencies:
+
    ```bash
    pip install -r requirements.txt
    ```
@@ -62,7 +66,7 @@ PdfLens combines the best tools to deliver an exceptional user experience:
 
 Imagine you're a student reviewing a dense academic paper. Instead of manually skimming through dozens of pages, simply upload the PDF to PdfLens and:
 
-- Ask specific questions like *"What are the key findings?"*
+- Ask specific questions like _"What are the key findings?"_
 - Highlight and extract important sections.
 - Summarize the entire paper in seconds.
 
@@ -71,6 +75,7 @@ Imagine you're a student reviewing a dense academic paper. Instead of manually s
 ## 📢 Contribution
 
 We welcome contributions from the community! Feel free to:
+
 - Open an issue for bug reports or feature requests.
 - Fork the repository and submit a pull request.
 
@@ -84,6 +89,6 @@ We welcome contributions from the community! Feel free to:
 
 ---
 
-##  Thank You!
-Thank you for using PdfLens! If you enjoy this tool, don’t forget to give us a ⭐ star on GitHub and share it with your friends! 🎉
+## Thank You!
 
+Thank you for using PdfLens! If you enjoy this tool, don’t forget to give us a ⭐ star on GitHub and share it with your friends! 🎉
